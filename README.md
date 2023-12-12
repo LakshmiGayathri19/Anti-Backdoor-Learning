@@ -7,7 +7,7 @@ need for detecting and erasing methods as ABL is applied in the training phase. 
 
 ---
 
-## Repoository Info:
+## Repository Info:
 * The folder `ABL-main` contains all the files related to implementing `ABL` methodolgy.
 * The folder `CleanLabel` consists of all the files necessary to implement `Clean Label` attack.
 * The folder `input-aware-backdoor-attack-release` consists all the files required to simulate the `Input Aware Dynamic Backdoor Attack`.
